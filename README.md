@@ -4,6 +4,7 @@
 ATD-Assignment
 
 create database studentdetails
+
 Create table student
 
 mysql> show tables;
